@@ -1,1 +1,1 @@
-##You can get datas from inside of files
+##You could get data from inside files
