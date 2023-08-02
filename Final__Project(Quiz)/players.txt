@@ -1,0 +1,6 @@
+Xeyal,Ismayilov,20,xeyal@gmail.com,Khayal_2120,Xeyal_21
+Gulbahar,Mehemmedzade,19,gulu@gmail.com,Gulu_bahar_19,Gulbahar_2004
+Huseyn,Celilov,24,husu_24@gmail.com,Huseynn_24,Huseyn_1999
+Cavid,Pasayev,32,Cavid@gmail.com,Cavid__1234,Cavid.1991
+Nermin,Sultanli,19,nermin@gmail.com,NerminS_1920,Nermin_2004
+Ruzgar,Ismayilov,23,ruzgar@gmail.com,_Ruzgar_Player,Ruzgar_2000

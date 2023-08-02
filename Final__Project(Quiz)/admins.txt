@@ -1,0 +1,3 @@
+Mehriban,Dadashova,25,mehi@gmail.com,Mehriban_2_5,Mehriban_98,403
+Xeyal,Ismayilov,20,xeyal@gmail.com,Khayal_2120,Xeyal_2003,333
+AliHuseyn,Xankisizade,22,Ali_hus@gmail.com,Ali_Husu22,Ali_2001,210

@@ -1,0 +1,60 @@
+Question 1: What is the difference between an object and a class?
+	Answer 1: An object is an extension of the class construct whose default access privilege is public.
+	Answer 2: The term object is just another way of referring to the public data members of a class.
+	Answer 3: An object is an initialized class variable.    (Correct)
+	Answer 4: A class is an initialized object variable.
+
+Question 2: What is the difference between a struct and a class in C++?
+	Answer 1: A struct cannot have member functions.
+	Answer 2: A class has a default privacy specification of private.    (Correct)
+	Answer 3: A class has a default privacy specification of public.
+	Answer 4: A struct cannot have private members.
+
+Question 3: An object is _____________ of a class.
+	Answer 1: an encapsulation
+	Answer 2: an instance    (Correct)
+	Answer 3: an interface
+	Answer 4: a member function
+
+Question 4: Which of the following categories does C++ belong to?
+	Answer 1: Operating System
+	Answer 2: low-level programming language
+	Answer 3: High-level programming language   (Correct)
+	Answer 4: Compiler
+
+Question 5: What is this called, <iostream>?
+	Answer 1: file
+	Answer 2: command
+	Answer 3: directive
+	Answer 4: pre-processor directive   (Correct)
+
+Question 6: Which of the following is a correct identifier in C++?
+	Answer 1: VAR_1234 (Correct)
+	Answer 2: $var_name
+	Answer 3: 7VARNAME
+	Answer 4: 7var_name
+
+Question 7: Identify the C++ compiler of Linux?
+	Answer 1: g++   (Correct)
+	Answer 2: cpp
+	Answer 3: Borland
+	Answer 4: vc++
+
+Question 8: Who developed the C++ language?
+	Answer 1: Steve Jobs
+	Answer 2: Linus Torvalds
+	Answer 3: Bill Gates
+	Answer 4: Bjarne Stroustrup   (Correct)
+
+Question 9: A protected member of the class in accessible in?
+	Answer 1: Only same class
+	Answer 2: Outside the class
+	Answer 3: Same class and derived class  (Correct)
+	Answer 4: None of the above.
+
+Question 10: Which command is correctly written?
+	Answer 1: cout >>
+	Answer 2: cin <<
+	Answer 3: cout <>
+	Answer 4: cin >>  (Correct)
+

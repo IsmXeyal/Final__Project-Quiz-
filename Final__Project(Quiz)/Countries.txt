@@ -1,0 +1,120 @@
+Question 1: In which country are the world's 10 coldest cities located?
+	Answer 1: Russia    (Correct)
+	Answer 2: Sweden
+	Answer 3: Canada
+	Answer 4: United States
+
+Question 2: With an area of less than 0.2 square mile (0.5 square kilometer), which is the smallest country in the world?
+	Answer 1: Barbados
+	Answer 2: Malta
+	Answer 3: Vatican City    (Correct)
+	Answer 4: Cyprus
+
+Question 3: Which continent is home to the most countries?
+	Answer 1: Europe
+	Answer 2: Africa    (Correct)
+	Answer 3: South America
+	Answer 4: Asia
+
+Question 4: Which of the following is a landlocked country, meaning it is not bordered by the sea or ocean?
+	Answer 1: Kazakhstan    (Correct)
+	Answer 2: Madagascar
+	Answer 3: Turkey
+	Answer 4: Canada
+
+Question 5: Which of the following countries has the largest Muslim population in the world?
+	Answer 1: Saudi Arabia
+	Answer 2: Indonesia   (Correct)
+	Answer 3: Iran
+	Answer 4: Turkey
+
+Question 6: Which of the following countries is shaped like a high heel boot?
+	Answer 1: Chile
+	Answer 2: Finland
+	Answer 3: Italy   (Correct)
+	Answer 4: Spain
+
+Question 7: Mouth Kilimanjaro, the highest mountain in Africa, is located in which country?
+	Answer 1: Kenya
+	Answer 2: Tanzania   (Correct)
+	Answer 3: Lesotho
+	Answer 4: Guatemala
+
+Question 8: Pho, which contains beef, herbs, rice noodles, and broth, is a traditional dish in which Asian country?
+	Answer 1: Cambodia
+	Answer 2: Vietnam   (Correct)
+	Answer 3: Malaysia
+	Answer 4: Japan
+
+Question 9: Which country will host the 2024 Olympics Summer Games?
+	Answer 1: France   (Correct)
+	Answer 2: Australia
+	Answer 3: Japan
+	Answer 4: Italy
+
+Question 10: Which country has the most islands in the world with more than 221,800?
+	Answer 1: Canada
+	Answer 2: Norway
+	Answer 3: Sweden   (Correct)
+	Answer 4: China
+
+Question 11: Which country is often called Land of Rising Sun?
+	Answer 1: China
+	Answer 2: Japan   (Correct)
+	Answer 3: South Korea
+	Answer 4: Bangladesh
+
+Question 12: On 15 August 1947, British India was separated into India and which modern-day country?
+	Answer 1: Pakistan   (Correct)
+	Answer 2: Bangladesh
+	Answer 3: Nepal
+	Answer 4: Indonesia
+
+Question 13: Guitar is originated from which country in the 16th century?
+	Answer 1: Greece
+	Answer 2: France
+	Answer 3: Spain   (Correct)
+	Answer 4: Peru
+
+Question 14: Which two nations share the longest border in the world?
+	Answer 1: USA and Canada   (Correct)
+	Answer 2: China and Russia
+	Answer 3: Brazil and Argentina
+	Answer 4: Russia and Ukraine
+
+Question 15: The unicorn is the official national animal of which country?
+	Answer 1: Wales
+	Answer 2: Northern Ireland
+	Answer 3: Scotland   (Correct)
+	Answer 4: England
+
+Question 16: What is the first country in the world to grant the vote to women?
+	Answer 1: Australia
+	Answer 2: New Zealand   (Correct)
+	Answer 3: Canada
+	Answer 4: USA
+
+Question 17: The Nobel Peace Prize is held every year in which country?
+	Answer 1: Denmark
+	Answer 2: Sweden
+	Answer 3: USA
+	Answer 4: Norway   (Correct)
+
+Question 18:  In which country can you find the "Door to Hell", a natural gas pit that has been on fire since 1971?
+	Answer 1: Georgia
+	Answer 2: Azerbaijan
+	Answer 3: Turkmenistan  (Correct)
+	Answer 4: Russia
+
+Question 19: Which country is the current world's leader in coffee exporting?
+	Answer 1: Indonesia
+	Answer 2: Colombia
+	Answer 3: Brazil  (Correct)
+	Answer 4: Egypt
+
+Question 20: Which country was called Santiago when Christopher Columbus first discovered it in 1494?
+	Answer 1: Panama
+	Answer 2: Cuba
+	Answer 3: Jamaica (Correct)
+	Answer 4: America
+

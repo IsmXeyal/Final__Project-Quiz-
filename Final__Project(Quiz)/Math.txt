@@ -1,0 +1,30 @@
+Question 1: 5/10 + 4/10 = ?
+	Answer 1: 1/10
+	Answer 2: 9/10 (Correct)
+	Answer 3: 1/5
+	Answer 4: 1/4
+
+Question 2: 9/10 - 1/4 = ?
+	Answer 1: 18/20
+	Answer 2: 8/4
+	Answer 3: 8/10
+	Answer 4: 13/20 (Correct)
+
+Question 3: 7x9-3x4+10 = ?
+	Answer 1: 250
+	Answer 2: 61 (Correct)
+	Answer 3: 56
+	Answer 4: 34
+
+Question 4: 17x12+6 = ?
+	Answer 1: 198
+	Answer 2: 212
+	Answer 3: 204
+	Answer 4: 210 (Correct)
+
+Question 5: 6! = ?
+	Answer 1: 120
+	Answer 2: 240
+	Answer 3: 720 (Correct)
+	Answer 4: 600
+
